@@ -33,6 +33,7 @@ class CharlesWei:
 ```
 
 - 🤖 **AI & Data Science Intern @ IASO Biotherapeutics (2026)**: owned an AI-powered pharmacoeconomic (CEA) platform end to end, from the data layer to AI agents, a knowledge engine and model governance; 153/153 Excel–Python parity checks backed by 200+ automated tests
+- 📊 **Data Science & Business Analyst Intern @ PwC (2023)**: supported an Oracle-to-SAP database migration for 2,000+ user accounts and cut transition downtime by 40%; designed a Salesforce CRM workflow for a medical client; authored a cloud data encryption assessment whose Salesforce Shield proposal was adopted
 - 🎬 **Now**: a multi-stage pipeline that turns a simple prompt into a 7+ minute explainer video (LLM script and scene planning → TTS narration → timed visuals → automated assembly)
 - 🔎 **Shipped**: LUMINA, a cited-answer AI research agent with web search, RAG and user memory; p95 time to first token cut from 24.7s to 11.1s at about $0.017 per answer
 
