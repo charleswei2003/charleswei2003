@@ -1,15 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/charleswei2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Charles+Wei+%F0%9F%91%8B;AI+Engineer+%C2%B7+Forward+Deployed+Engineer;Building+LLM+apps%2C+RAG+and+AI+agents;MSBA+%40+UCLA+Anderson" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Charles+Wei+%F0%9F%91%8B;Building+LLM+apps%2C+RAG+and+AI+agents;MSBA+%40+UCLA+Anderson" alt="Typing SVG" />
 </a>
 
 <a href="https://www.linkedin.com/in/charles-z-wei"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://lumina-cw.vercel.app"><img src="https://img.shields.io/badge/LUMINA-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="LUMINA" /></a>
 <a href="https://coffee-atlas-phi.vercel.app"><img src="https://img.shields.io/badge/Coffee_Atlas-Live_Demo-6F4E37?style=for-the-badge&logo=vercel&logoColor=white" alt="Coffee Atlas" /></a>
 <a href="mailto:zizhan.wei.2026@anderson.ucla.edu"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=charleswei2003&label=Profile+Views&color=2F81F7&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -20,7 +18,7 @@
 ```python
 class CharlesWei:
     name      = "Zizhan (Charles) Wei"
-    roles     = ["AI Engineer", "Forward Deployed Engineer"]
+    aspiring  = ["AI Engineer", "Forward Deployed Engineer"]
     location  = "Los Angeles, CA  # open to relocation"
     education = {
         "MS Business Analytics (STEM)": "UCLA Anderson, expected Dec 2026",
